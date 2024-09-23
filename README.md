@@ -1,23 +1,22 @@
-# Airline Ticket Reservation System
-Online airline ticketing saves time and money for the customer as well as the airline company thereby making air travel more customer-centric. 
-This project is an attempt to simulate the basic concepts of an airline reservation system.
+Overview
+The Airline Ticket Reservation System is designed to streamline the booking process, saving time and money for both customers and airlines. This project aims to simulate the core functionalities of an airline reservation system, delivering a user-centric experience.
 
-Our airline ticket reservation system has the following features:- 
-
-*Customers can:*
-* Create an account
-* Search for available flights for a particular city-pair
-* Book tickets in the class of their choice
-* Cancel booked tickets
-* View booked tickets history 
-
-*Administrators can:*
-* Add/Modify flight schedules
-* Viewing the booked ticket statistics
-
-This system also incorporates a frequent flier miles points system for loyal customers which will provide additional benefits to them.
-
-
-This project was implemented using HTML & CSS for the front-end and PHP for the back-end. The database was created and updated using MySQL.
-
+Features
+For Customers:
+Create and manage accounts
+Search for available flights between city pairs
+Book tickets in their preferred class
+Cancel previously booked tickets
+View ticket booking history
+For Administrators:
+Add and modify flight schedules
+View comprehensive booking statistics
+Additional Functionality:
+A frequent flier miles system is integrated to reward loyal customers with additional benefits.
+Technologies Used
+Front-end: HTML, CSS
+Back-end: PHP
+Database: MySQL
+Conclusion
+The Airline Ticket Reservation System efficiently combines customer and administrator functionalities into a single platform, enhancing the overall experience of booking flights online. By leveraging key web technologies, the system offers a responsive, reliable, and user-friendly solution.
 
