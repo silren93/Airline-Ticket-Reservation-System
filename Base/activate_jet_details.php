@@ -25,9 +25,7 @@
 	</head>
 	<body>
 		<img class="logo" src="images/shutterstock_22.jpg"/> 
-		<h1 id="title">
-			VIETNAM AIRLINES
-		</h1>
+		<h1 id="title">VIETNAM AIRLINES</h1>
 		<div>
 			<ul>
 				<li><a href="admin_homepage.php"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
