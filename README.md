@@ -13,10 +13,9 @@ The **Airline Ticket Reservation System** project was created as a practical exe
 - View ticket booking history
 
 ### **For Administrators:**
-- Add and modify flight schedules
-- Activate and deactivate jet details
-- Delete flights from the schedule
-- View comprehensive booking statistics
+- Add, modify and delete flight schedules
+- Activate or deactivate jet details
+- View detailed booking statistics for analysis
 
 ### **Additional Functionality:**
 - A frequent flier miles system is integrated to reward loyal customers with additional benefits.
