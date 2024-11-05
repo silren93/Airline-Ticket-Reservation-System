@@ -1,7 +1,7 @@
 # **Airline Ticket Reservation System**
 
 ## Overview  
-The **Airline Ticket Reservation System** is designed to streamline the booking process, saving time and money for both customers and airlines. This project aims to simulate the core functionalities of an airline reservation system, delivering a user-centric experience.
+The **Airline Ticket Reservation System** project was created as a practical exercise to deepen my understanding of full-stack development and improve my skills in building a complex web application. This system is designed to streamline the booking process, providing a simulated experience of an airline reservation platform while emphasizing a user-centered approach.
 
 ## Features
 
