@@ -15,7 +15,7 @@ The **Airline Ticket Reservation System** project was created as a practical exe
 ### **For Administrators:**
 - Add, modify and delete flight schedules
 - Activate or deactivate jet details
-- View detailed booking statistics for analysis
+- View detailed booking statistics 
 
 ### **Additional Functionality:**
 - A frequent flier miles system is integrated to reward loyal customers with additional benefits.
@@ -37,4 +37,4 @@ If I were to further develop this project, I would implement the following featu
 - **Database:** MySQL
 
 ## Conclusion  
-The Airline Ticket Reservation System efficiently combines customer and administrator functionalities into a single platform, enhancing the overall experience of booking flights online. By leveraging key web technologies, the system offers a responsive, reliable, and user-friendly solution.
+**The Airline Ticket Reservation System** efficiently combines customer and administrator functionalities into a single platform, enhancing the overall experience of booking flights online. By leveraging key web technologies, the system offers a responsive, reliable, and user-friendly solution.
