@@ -2,7 +2,7 @@
  {
     width:auto;
     height:auto;
-    border=style:groove;
+    border-style:groove;
 
 
  }
@@ -13,9 +13,9 @@
  {
      width:auto;
      height:200px;
-     border=style:groove;
-     background-color:rgb(12,100,198);
-     background-image:url('images/maxxx.jpg');
+     border-style:groove;
+     background-color: rgb(12,100,198);
+     background-image: url('images/maxxx.jpg');
      background-repeat:no-repeat;
 
  }
@@ -27,7 +27,7 @@
    height:30px;
    margin-top:5px;
    background-color:rgb(12,100,198);
-   border=style:groove;
+   border-style:groove;
 
 }
 
@@ -123,7 +123,7 @@ text-align:center;
    height:30px;
    margin-top:5px;
    background-color:rgb(12,100,198);
-   border=style:groove;
+   border-style:groove;
 
 }
 
