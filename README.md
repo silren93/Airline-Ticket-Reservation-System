@@ -33,7 +33,7 @@ If I were to further develop this project, I would implement the following featu
 - Integrate seat selection functionality on the website, giving users the freedom to choose their preferred seat at the time of booking.
 
 ## Technologies Used
-- **Front-end:** HTML, CSS  
+- **Front-end:** HTML, CSS, SCSS  
 - **Back-end:** PHP  
 - **Database:** MySQL
 
